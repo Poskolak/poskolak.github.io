@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Ahoj robotici 2020/21 :)
 
-You can use the [editor on GitHub](https://github.com/Poskolak/poskolak.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Vítáme vás na druhém ročníku programování a robotiky!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 2.10.2020
+#### Informace
+Základní informace o kroužku naleznete na https://poskolak.github.io/ a samozřejmě na stránkách http://cvc-poskolak.cz/ 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Notebook
+Dětem by se hodil vlastní (nějaký starší) notebook, který je rozumně rychlý a má funkční prohlížeč Chrome.
 
-```markdown
-Syntax highlighted code block
+#### Domácí práce
+Z každého kroužku si děti odnesou nepovinný úkol. Pokud v týdnu obětují 1-2h tomuto úkoli, jistě nám půjde páteční společná práce daleko rychleji.
 
-# Header 1
-## Header 2
-### Header 3
+```V rámci robotického kroužku Vás zdraví a těší se na rok plný programování```
 
-- Bulleted
-- List
+### Kontakt
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Poskolak/poskolak.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Případné dotazy, vylepšení a připomínky směřujte na Michala (michal.pirgl(at)google.com) a Honzu (jan.polan(at)google.com).
