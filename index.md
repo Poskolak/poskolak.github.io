@@ -5,10 +5,9 @@ Vítáme vás na druhém ročníku programování a robotiky!
 ### 9.10.2020
 Do 30.10. se kroužky přerušují :(
 
-![Dle nařízení vlády od pondělí 12.10. do 30.10.2020 se přerušuje výuka zájmových činností. ]
-(https://raw.githubusercontent.com/Poskolak/poskolak.github.io/main/2020-10-09_11-49.png)
+![Dle nařízení vlády od pondělí 12.10. do 30.10.2020 se přerušuje výuka zájmových činností](https://raw.githubusercontent.com/Poskolak/poskolak.github.io/main/2020-10-09_11-49.png)
 
-https://www.facebook.com/Centrum-voln%C3%A9ho-%C4%8Dasu-Po%C5%A1kol%C3%A1k-os-674276742707536/
+[Facebook - Poškolák](https://www.facebook.com/Centrum-voln%C3%A9ho-%C4%8Dasu-Po%C5%A1kol%C3%A1k-os-674276742707536/)
 
 
 ### 2.10.2020
