@@ -1,6 +1,6 @@
 ## Ahoj robotici 2020/21 :)
 
-Vítáme vás na druhém ročníku programování a robotiky!
+Vítámeeeee vás na druhém ročníku programování a robotiky!
 
 ### 9.10.2020
 Do 30.10. se kroužky přerušují :(
