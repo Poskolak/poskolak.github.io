@@ -1,3 +1,7 @@
+![stelinka](https://poskolak.github.io/stelinka)
+![nelinka](https://poskolak.github.io/nelinka)
+
+
 ## Ahoj robotici 2020/21 :)
 
 Vítámeeeee vás na druhém ročníku programování a robotiky!
