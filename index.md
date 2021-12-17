@@ -1,5 +1,5 @@
-![stelinka](https://poskolak.github.io/stelinka)
-![nelinka](https://poskolak.github.io/nelinka)
+[stelinka](https://poskolak.github.io/stelinka)
+[nelinka](https://poskolak.github.io/nelinka)
 
 
 ## Ahoj robotici 2020/21 :)
