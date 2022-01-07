@@ -11,6 +11,7 @@ Přejeme Hezké Vánoce ajťákům, robotikům, noobům a všem lidem dobré vů
 * [stelinka](https://poskolak.github.io/stelinka.html)
 * [nelinka](https://poskolak.github.io/nelinka.html)
 * [andynka](https://poskolak.github.io/andy.html)
+* [michal](https://poskolak.github.io/michal.html)
 
 #### Informace
 
