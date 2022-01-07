@@ -8,8 +8,9 @@ Přejeme Hezké Vánoce ajťákům, robotikům, noobům a všem lidem dobré vů
 
 Úkoly jsou na stránce [úkoly](/ukoly)
 
-* [stelinka](https://poskolak.github.io/stelinka)
-* [nelinka](https://poskolak.github.io/nelinka)
+* [stelinka](https://poskolak.github.io/stelinka.html)
+* [nelinka](https://poskolak.github.io/nelinka.html)
+* [andynka](https://poskolak.github.io/andy.html)
 
 #### Informace
 
