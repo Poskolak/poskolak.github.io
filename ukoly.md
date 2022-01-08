@@ -6,8 +6,7 @@ Jak?
 2. Podívat se na zdrojový [kód stránky](https://github.com/Poskolak/poskolak.github.io/blob/master/michal.html)
 3. Podívat se na svojí stránku andy.html, nelinka.html, stelinka.html
 4. Podívat se na [návod na kulaté rohy](https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius)
-5. Zkusit to přidat kulaté rohy k první, druhé a třetí zprávě
-   Nápověda: &lt;span style=&quot;TADY BUDE NĚJAK&Yacute; NOV&Yacute; K&Oacute;D PRO ROHY UKONČEN&Yacute; STŘEDN&Iacute;KEM; display: inline-block; width: 300px; background-color: #BBB;&quot;&gt;Prvn&iacute; zpr&aacute;va&lt;/span&gt;
+5. Zkusit to přidat kulaté rohy k první, druhé a třetí zprávě. Nápověda: &lt;span style=&quot;TADY BUDE NĚJAK&Yacute; NOV&Yacute; K&Oacute;D PRO ROHY UKONČEN&Yacute; STŘEDN&Iacute;KEM; display: inline-block; width: 300px; background-color: #BBB;&quot;&gt;Prvn&iacute; zpr&aacute;va&lt;/span&gt;
 
 
 17.12.2021
