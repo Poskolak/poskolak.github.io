@@ -1,8 +1,6 @@
-## Ahoj robotici 2021/23 :)
+## Ahoj robotici 2022/23 :)
 
-Vítámeeeee vás na dalším ročníku programování a robotiky! 
-
-Přejeme Hezké Vánoce ajťákům, robotikům, noobům a všem lidem dobré vůle!
+Vítámeeeee vás na dalším ročníku programování a robotiky!
 
 ### Domácí práce
 
