@@ -6,46 +6,35 @@ Cíl je udělat CHATY a začít používat TryIt editor
 ```
 <!DOCTYPE html>
 <html>
-<body>
-
-<h1><img src="https://cdn.pixabay.com/photo/2021/05/27/13/51/instagram-logo-6288194_960_720.png" width="30"> CHATY Instáče</h1>
-
-<table border="1">
-<tr>
-<td>
-<a href="https://www.instagram.com/">
-
-<img src="https://venota-com-media.r1-cz.storage.forpsicloud.cz/media/sites/116/2020/11/shottype1-540x540-21-2.jpg" height="30">
-
-</a>
-
-</td>
-<td>
-
-<a href="https://www.instagram.com/">
-jméno<br>
-aktivní naposledy před 10 roky...
-</a>
-
-</td>
-<td>rychlá fotka</td>
-</tr>
-<tr>
-<td><img src="https://venota-com-media.r1-cz.storage.forpsicloud.cz/media/sites/116/2020/11/shottype1-540x540-21-2.jpg" height="30"></td>
-<td>texty</td>
-<td>rychlá fotka</td>
-</tr>
-
-<tr>
-<td>fotka</td>
-<td>texty</td>
-<td>rychlá fotka</td>
-</tr>
-
-</table>
-
-
-</body>
+   <body>
+      <h1><img src="https://cdn.pixabay.com/photo/2021/05/27/13/51/instagram-logo-6288194_960_720.png" width="30"> CHATY Instáče</h1>
+      <table border="1">
+         <tr>
+            <td>
+               <a href="https://www.instagram.com/">
+               <img src="https://venota-com-media.r1-cz.storage.forpsicloud.cz/media/sites/116/2020/11/shottype1-540x540-21-2.jpg" height="30">
+               </a>
+            </td>
+            <td>
+               <a href="https://www.instagram.com/">
+               jméno<br>
+               aktivní naposledy před 10 roky...
+               </a>
+            </td>
+            <td>rychlá fotka</td>
+         </tr>
+         <tr>
+            <td><img src="https://venota-com-media.r1-cz.storage.forpsicloud.cz/media/sites/116/2020/11/shottype1-540x540-21-2.jpg" height="30"></td>
+            <td>texty</td>
+            <td>rychlá fotka</td>
+         </tr>
+         <tr>
+            <td>fotka</td>
+            <td>texty</td>
+            <td>rychlá fotka</td>
+         </tr>
+      </table>
+   </body>
 </html>
 ```
 
