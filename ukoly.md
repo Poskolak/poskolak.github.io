@@ -1,3 +1,23 @@
+28.1.2022
+Úvod do responzivní design
+
+1. Přečíst [https://www.websites.cz/responzivni-design-co-je-a-jak-funguje/](https://www.websites.cz/responzivni-design-co-je-a-jak-funguje/) [https://cs.wikipedia.org/wiki/Responzivn%C3%AD_web_design](https://cs.wikipedia.org/wiki/Responzivn%C3%AD_web_design)
+2. Chaty hezky zobrazit na mobilu [https://www.vzhurudolu.cz/prirucka/viewport-meta](https://www.vzhurudolu.cz/prirucka/viewport-meta)
+Toto zkusit přidat do hlavičky html, tj
+```
+<html>
+<head>
+...
+<meta name="viewport" content="width=device-width, initial-scale=1">
+...
+</head>
+<body>
+....
+</body>
+</html>
+```
+
+
 21.1.2022
 Cíl je udělat CHATY a začít používat TryIt editor
 
