@@ -9,7 +9,6 @@ Vítámeeeee vás na dalším ročníku programování a robotiky!
 * Stelinka
   * [Chaty](https://poskolak.github.io/StelinkaChaty.html)
   * [bubliny](https://poskolak.github.i)
-  * [bubliny](https://poskolak.github.io/nelinka.html)o/stelinka.html)
 * Andynka
   * [Chaty](https://poskolak.github.io/andy%20chaty.html)
   * [buliny](https://poskolak.github.io/andy.html)
