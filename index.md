@@ -6,9 +6,12 @@ Vítámeeeee vás na dalším ročníku programování a robotiky!
 
 Úkoly jsou na stránce [úkoly](/ukoly)
 
-* [stelinka](https://poskolak.github.io/stelinka.html)
-* [nelinka](https://poskolak.github.io/nelinka.html)
-* [andynka](https://poskolak.github.io/andy.html)
+* Stelinka
+  * [Chaty](https://poskolak.github.io/StelinkaChaty.html)
+  * [bubliny](https://poskolak.github.io/stelinka.html)
+*  Andynka
+  * [Chaty](https://poskolak.github.io/andy chaty.html)
+  * [buliny](https://poskolak.github.io/andy.html)
 * [michal](https://poskolak.github.io/michal.html)
 
 #### Informace
