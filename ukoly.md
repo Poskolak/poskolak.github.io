@@ -1,3 +1,11 @@
+11.2.2022
+Vývojářské možnosti v Chrome nebo FF
+
+1. Naučit se pustit okno výv. nástrojů (zkratky, v menu)
+2. Naučit se přepínat zobrazení pro desktop nebo simulaci mobilu
+3. Opravit šířku v simulaci mobilu u chatů a mobil
+4. Andy smaže obrázek nebo ho opraví
+
 28.1.2022
 Úvod do responzivní design
 
