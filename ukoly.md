@@ -1,3 +1,11 @@
+25.2.2022
+Prázdninové stylování
+Cíl: aby to bylo černý, texty bílé
+
+1. Zjistit, co je vlastně stajlování a zjistit, co znamená zkratka CSS???
+2. Přečíst úvod https://www.jakpsatweb.cz/css/
+3. Upravit pozadí stránky bublin i chatů na černo a texty na bílo
+
 11.2.2022
 Vývojářské možnosti v Chrome nebo FF
 
