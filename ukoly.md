@@ -2,7 +2,7 @@
 Cíl: seznámit se s živým chatem a vyzkoušet i sebe
 
 1. Znovu zjistit co je CSS
-2. Zjistit co znamená <!-- -->
+2. Zjistit co znamená &lt;!-- --&gt;
 3. Zjistit co znamená UL a LI u tagů
 4. Zprovoznit chat u sebe, zatím pouze kopírovat věci mezi šipkami
 
