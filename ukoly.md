@@ -1,3 +1,11 @@
+11.3.2022
+Cíl: seznámit se s živým chatem a vyzkoušet i sebe
+
+1. Znovu zjistit co je CSS
+2. Zjistit co znamená <!-- -->
+3. Zjistit co znamená UL a LI u tagů
+4. Zprovoznit chat u sebe, zatím pouze kopírovat věci mezi šipkami
+
 25.2.2022
 Prázdninové stylování
 Cíl: aby to bylo černý, texty bílé
