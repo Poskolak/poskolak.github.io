@@ -14,12 +14,14 @@ Vítámeeeee vás na dalším ročníku programování a robotiky!
   * [buliny](https://poskolak.github.io/andy.html)
 * Nelinka
   * [Chaty](https://poskolak.github.io/nelinkaChaty.html)
-  * [bubliny](https://poskolak.github.io/nelinka.html)  
-* [michal](https://poskolak.github.io/michal.html)
+  * [bubliny](https://poskolak.github.io/nelinka.html)
+* Michal
+  * [Živý chat](https://poskolak.github.io/michal-chats.html)
+  * [Mrtvé bubliny](https://poskolak.github.io/michal.html)
 
 #### Informace
 
-Základní informace o kroužku naleznete na https://poskolak.github.io/ a samozřejmě na stránkách http://cvc-poskolak.cz/ 
+Základní informace o kroužku naleznete na https://poskolak.github.io/ a samozřejmě na stránkách http://cvc-poskolak.cz/
 
 #### Notebook
 
