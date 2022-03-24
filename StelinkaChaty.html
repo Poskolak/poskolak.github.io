@@ -10,12 +10,7 @@ body {
   color: white;
   font-size: 15px;
 }
-      
-     <script src="https://www.gstatic.com/firebasejs/9.6.8/firebase-app-compat.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/9.6.8/firebase-auth-compat.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/9.6.8/firebase-database-compat.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/9.6.8/firebase-analytics-compat.js"></script>
-      
+            
     </style>
   </head>
   
@@ -68,86 +63,6 @@ tvoje máma
 </tr>
 
 </table>
-
- <div id="chat">
-      <!-- messages will display here -->
-      
-      <!-- A TADY JE HŘIŠTĚ PRO POKUSY -->
-      <ul id="messages"></ul>
-
-      <!-- form to send message -->
-      <form id="message-form">
-        <input id="message-input" type="text" />
-        <button id="message-btn" type="submit">Send</button>
-      </form>
-    </div>
-
-      <script type="module">
-        // Import the functions you need from the SDKs you need
-        // TODO: Add SDKs for Firebase products that you want to use
-        // https://firebase.google.com/docs/web/setup#available-libraries
-
-        // Your web app's Firebase configuration
-        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-        const firebaseConfig = {
-          apiKey: "AIzaSyDS5VkSI0fg9N02NCbSqR-uZp1caKgTZN4",
-          authDomain: "poskolak-instac.firebaseapp.com",
-          databaseURL: "https://poskolak-instac-default-rtdb.europe-west1.firebasedatabase.app",
-          projectId: "poskolak-instac",
-          storageBucket: "poskolak-instac.appspot.com",
-          messagingSenderId: "68565414290",
-          appId: "1:68565414290:web:2b8725fb04fa710801d14b",
-          measurementId: "G-4E824DRDYY"
-        };
-
-        // Initialize Firebase
-        const app = firebase.initializeApp(firebaseConfig);
-        //const analytics = getAnalytics(app);
-
-        const db = firebase.database();
-        const dbRef = firebase.database().ref();
-
-        // Poškolácí, tady!!!
-        // ČTENÍ CHATŮ
-
-        const username = prompt("Jakej máš NICK?");
-
-        const fetchChat = db.ref("michalovo-chaty/");
-        fetchChat.on("child_added", function (snapshot) {
-          const messages = snapshot.val();
-          const message = `<li class=${
-            username === messages.username ? "sent" : "receive"
-          }><span>${messages.username}: </span>${messages.message}</li>`;
-          // append the message on the page
-          document.getElementById("messages").innerHTML += message;
-        });
-
-        // ODESLÁNÍ CHATU
-        document.getElementById("message-form").addEventListener("submit", sendMessage);
-
-        function sendMessage(e) {
-          e.preventDefault();
-
-          // get values to be submitted
-          const timestamp = Date.now();
-          const messageInput = document.getElementById("message-input");
-          const message = messageInput.value;
-
-          // clear the input box
-          messageInput.value = "";
-
-          //auto scroll to bottom
-          document
-            .getElementById("messages")
-            .scrollIntoView({ behavior: "smooth", block: "end", inline: "nearest" });
-
-          // create db collection and send in the data
-          db.ref("michalovo-chaty/" + timestamp).set({
-            username,
-            message,
-          });
-        }
-      </script>
 
 </body>
 </html>
