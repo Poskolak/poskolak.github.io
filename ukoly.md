@@ -1,3 +1,8 @@
+25.3.2022
+Cíl: chaty v sloupcích
+1. Přesun chatů a SEND tlačítka do pravého sloupce
+2. Jako bonus: kulaté rohy
+
 11.3.2022
 Cíl: seznámit se s živým chatem a vyzkoušet i sebe
 
