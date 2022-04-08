@@ -1,3 +1,10 @@
+8.4.2022
+Cíl: připravit chaty pro projekt autíček
+1. Vytvořit novou stránku __robochat.html__
+2. Název chatu v levém sloupci: __Autíčka__
+3. Přidat "živé" chaty, zatím všechno vlevo
+4. Udělat kulaté rohy ve zprávách chatu 
+
 25.3.2022
 Cíl: chaty v sloupcích
 1. Přesun chatů a SEND tlačítka do pravého sloupce
