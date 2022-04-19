@@ -7,7 +7,7 @@ Vítámeeeee vás na dalším ročníku programování a robotiky!
 Úkoly jsou na stránce [úkoly](/ukoly)
 
 * Autíčka
-  * https://poskolak.github.io/auticka.html
+  * [Autíčka](https://poskolak.github.io/auticka.html)
 
 * Stelinka
   * [Chaty](https://poskolak.github.io/StelinkaChaty.html)
