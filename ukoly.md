@@ -1,3 +1,9 @@
+6.5.2022
+Cíl: naučit se mít kulaté zprávy vlevo i vpravo
+1. Zprávy vertikálně odskočit (např. margin-bottom, nebo padding-bottom)
+2. Liché zprávy, široké 50% a vlevo
+3. Sudé zprávy, 50% a vpravo
+
 8.4.2022
 Cíl: připravit chaty pro projekt autíček
 1. Vytvořit novou stránku __robochat.html__
