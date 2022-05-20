@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="data:,">
+  <style>
+    body {
+      text-align: center;
+      font-family: "Trebuchet MS", Arial;
+      margin-left:auto;
+      margin-right:auto;
+    }
+    .slider {
+      width: 300px;
+    }
+	.button { 
+		background-color: #4CAF50;
+		border: none;
+		color: white;
+		padding: 16px 40px;
+		text-decoration: none;
+		font-size: 30px;
+		margin: 2px;
+		cursor: pointer;
+	}
+	.button2 {
+		background-color: #555555;
+	}
+  </style>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<body>
+  <script>
+
+
+	var volant;
+	var motor;
+	let encoder = new TextEncoder('utf-8');
+
+	function pripojNaAuto() {
+		navigator.bluetooth.requestDevice({
+		  filters: [{
+			services: ['4fafc201-1fb5-459e-8fcc-c5c9c331914b']
+		  }]
+		})
+		.then(device => {
+			console.log(device.name);
+			return device.gatt.connect();
+		})
+		.then(server => server.getPrimaryService('4fafc201-1fb5-459e-8fcc-c5c9c331914b'))
+		.then(service => service.getCharacteristics())
+		.then(characteristics => {
+		  
+		  motor = characteristics.find(c => c.uuid == 'beb5483e-36e1-4688-b7f5-ea07361b26a8')
+		  volant = characteristics.find(c => c.uuid == 'fea9e75c-d298-11ec-9d64-0242ac120002')
+		  return motor.writeValue(encoder.encode('stop'));
+		})
+		.catch(error => { console.error(error); });
+	}
+	
+	function vpred() {
+	
+		motor.writeValue(encoder.encode('vpred'));
+	}
+
+	function stop() {
+	
+		motor.writeValue(encoder.encode('stop'));
+	}
+
+	function vzad() {
+	
+		motor.writeValue(encoder.encode('vzad'));
+	}
+	
+	function nastavVolant(pozice){
+	
+		volant.writeValue(encoder.encode(pozice));
+	}
+
+  </script
+
+  <h1>Poškolák auto</h1>
+  <p>Volant: <span id="servoPos"></span></p>
+  <input type="range" min="0" max="180" class="slider" id="servoSlider" onchange="nastavVolant(this.value)"/>
+  <script>
+    var slider = document.getElementById("servoSlider");
+    var servoP = document.getElementById("servoPos");
+    servoP.innerHTML = slider.value;
+    slider.oninput = function() {
+      slider.value = this.value;
+      servoP.innerHTML = this.value;
+    }
+    $.ajaxSetup({timeout:500});
+  </script>
+  
+  <p><button class="button" onclick="vpred()">Vpred</button></a></p>
+  <p><button class="button" onclick="stop()">Stop</button></a></p>
+  <p><button class="button" onclick="vzad()">Vzad</button></a></p>
+  <p><button class="button" onclick="pripojNaAuto()">Připojit</button></p>
+</body>
+</html>
