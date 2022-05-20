@@ -1,5 +1,6 @@
 20.5.2022
 Cíl: dokončit předchozí a zbavit nás teček
+
 ![image](https://user-images.githubusercontent.com/932761/169534102-120ed65d-391c-4dc6-b0a6-73fac6fd18ef.png)
 ![image](https://user-images.githubusercontent.com/932761/169534203-a93b6736-4db8-44d4-8326-d46458d112f6.png)
 
