@@ -1,16 +1,36 @@
+Rozcestník na jednotlivé stránky
+
+* RoboChat
+  * [RoboChat](https://poskolak.github.io/robochat.html)
+
+* Stelinka
+  * [Chaty](https://poskolak.github.io/StelinkaChaty.html)
+  * [bubliny](https://poskolak.github.io/stelinka.html)
+* Andynka
+  * [Chaty](https://poskolak.github.io/andy%20chaty.html)
+  * [buliny](https://poskolak.github.io/andy.html)
+* Nelinka
+  * [Chaty](https://poskolak.github.io/nelinkaChaty.html)
+  * [bubliny](https://poskolak.github.io/nelinka.html)
+* Michal
+  * [Živý chat](https://poskolak.github.io/michal-chats.html)
+  * [Mrtvé bubliny](https://poskolak.github.io/michal.html)
+
+------
 20.5.2022
 Cíl: dokončit předchozí a zbavit nás teček
 
 ![image](https://user-images.githubusercontent.com/932761/169534102-120ed65d-391c-4dc6-b0a6-73fac6fd18ef.png)
 ![image](https://user-images.githubusercontent.com/932761/169534203-a93b6736-4db8-44d4-8326-d46458d112f6.png)
 
-
+------
 6.5.2022
 Cíl: naučit se mít kulaté zprávy vlevo i vpravo
 1. Zprávy vertikálně odskočit (např. margin-bottom, nebo padding-bottom)
 2. Liché zprávy, široké 50% a vlevo
 3. Sudé zprávy, 50% a vpravo
 
+------
 8.4.2022
 Cíl: připravit chaty pro projekt autíček
 1. Vytvořit novou stránku __robochat.html__
@@ -18,11 +38,13 @@ Cíl: připravit chaty pro projekt autíček
 3. Přidat "živé" chaty, zatím všechno vlevo
 4. Udělat kulaté rohy ve zprávách chatu 
 
+------
 25.3.2022
 Cíl: chaty v sloupcích
 1. Přesun chatů a SEND tlačítka do pravého sloupce
 2. Jako bonus: kulaté rohy
 
+------
 11.3.2022
 Cíl: seznámit se s živým chatem a vyzkoušet i sebe
 
@@ -31,6 +53,7 @@ Cíl: seznámit se s živým chatem a vyzkoušet i sebe
 3. Zjistit co znamená UL a LI u tagů
 4. Zprovoznit chat u sebe, zatím pouze kopírovat věci mezi šipkami
 
+------
 25.2.2022
 Prázdninové stylování
 Cíl: aby to bylo černý, texty bílé
@@ -39,6 +62,7 @@ Cíl: aby to bylo černý, texty bílé
 2. Přečíst úvod https://www.jakpsatweb.cz/css/
 3. Upravit pozadí stránky bublin i chatů na černo a texty na bílo
 
+------
 11.2.2022
 Vývojářské možnosti v Chrome nebo FF
 
@@ -47,6 +71,7 @@ Vývojářské možnosti v Chrome nebo FF
 3. Opravit šířku v simulaci mobilu u chatů a mobil
 4. Andy smaže obrázek nebo ho opraví
 
+------
 28.1.2022
 Úvod do responzivní design
 
@@ -66,7 +91,7 @@ Toto zkusit přidat do hlavičky html, tj
 </html>
 ```
 
-
+------
 21.1.2022
 Cíl je udělat CHATY a začít používat TryIt editor
 
@@ -107,6 +132,7 @@ Cíl je udělat CHATY a začít používat TryIt editor
 </html>
 ```
 
+------
 7.1.2022
 Cíl: Vytvořit minimálně 3 obdélníky s barveným pozadím, které mají kulaté rohy
 Jak?
@@ -117,7 +143,7 @@ Jak?
 4. Podívat se na [návod na kulaté rohy](https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius)
 5. Zkusit to přidat kulaté rohy k první, druhé a třetí zprávě. Nápověda: &lt;span style=&quot;TADY BUDE NĚJAK&Yacute; NOV&Yacute; K&Oacute;D PRO ROHY UKONČEN&Yacute; STŘEDN&Iacute;KEM; display: inline-block; width: 300px; background-color: #BBB;&quot;&gt;Prvn&iacute; zpr&aacute;va&lt;/span&gt;
 
-
+------
 17.12.2021
 1. Přihlásit se do Github.com v prohlížeči na PC nebo laptopu
 2. Následně vyzkoušet editaci souborů nelinka.md a stelinka.md
