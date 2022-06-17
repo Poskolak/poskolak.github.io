@@ -1,7 +1,7 @@
 ## Ahoj robotici :)
 
 Tak další ročník za námi a máte konečně prázniny. Tablety, konzole a počítače jsou prima, ale hlavně vyražte ven s kamarády a pořádně se provětrejte!
-Pokud se bude pršet a budete se nudit, tak se podívejte na [Skreč videa](https://www.youtube.com/watch?v=IJw7xheBj8o&list=PLNnyEeJyvhc30sR1Qp7K0SPK3n1hpGH5N&ab_channel=ITsTOMYm) nebo si i [přímo zaprogramujte](https://scratch.mit.edu/projects/editor/?tutorial=getStarted) :)
+Pokud bude pršet a budete se nudit, tak se podívejte na [Skreč videa](https://www.youtube.com/watch?v=IJw7xheBj8o&list=PLNnyEeJyvhc30sR1Qp7K0SPK3n1hpGH5N&ab_channel=ITsTOMYm) nebo si i [přímo zaprogramujte](https://scratch.mit.edu/projects/editor/?tutorial=getStarted) :)
 
 ### Domácí práce
 
